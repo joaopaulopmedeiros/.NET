@@ -13,6 +13,7 @@ Repositório para estudo de .NET através da categorização de tópicos pelo n�
   - O que são Built-in Types?
   - O que são namespaces?
   - O que é o .NET?
+- [Respostas](./estagiarios.md)
 
 ## Júnior
 - Tópicos: 
