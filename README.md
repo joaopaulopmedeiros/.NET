@@ -28,7 +28,10 @@ Repositório para estudo de .NET através da categorização de tópicos pelo n�
 - [Respostas](./juniores.md)
 
 ## Pleno
-- Tópicos: OOP, arquitetura de software e perfomance;
+- Tópicos: 
+  - Os da categoria anterior;
+  - Arquitetura de software;
+  - Perfomance;
 - Perguntas:
   - O que é SOLID?
   - Cite 3 design patterns e quais problemas resolvem.
@@ -45,5 +48,5 @@ Repositório para estudo de .NET através da categorização de tópicos pelo n�
   - DDD ou Data Driven, quando e porque utilizar cada um deles?
   - Qual seu checklist para garantir a perfomance de suas APIs?
 
-## Motivação
+## Fonte de motivação
 [Vídeo do canal balta.io](https://www.youtube.com/watch?v=cmaVEOqBKKY)
