@@ -45,5 +45,5 @@ Repositório para estudo de .NET através da categorização de tópicos pelo n�
   - DDD ou Data Driven, quando e porque utilizar cada um deles?
   - Qual seu checklist para garantir a perfomance de suas APIs?
 
-## Referências
+## Motivação
 [Vídeo do canal balta.io](https://www.youtube.com/watch?v=cmaVEOqBKKY)
