@@ -31,7 +31,7 @@ Repositório para estudo de .NET através da categorização de tópicos pelo n�
 - Tópicos: 
   - Os da categoria anterior;
   - Arquitetura de software;
-  - Perfomance;
+  - Performance;
 - Perguntas:
   - O que é SOLID?
   - Cite 3 design patterns e quais problemas resolvem.
