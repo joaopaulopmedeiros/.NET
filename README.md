@@ -25,6 +25,7 @@ Repositório para estudo de .NET através da categorização de tópicos pelo n�
   - Explique os modificadores de acesso presentes no .NET.
   - Qual a finalidade do virtual?
   - O que são Sealed Classes?
+- [Respostas](./juniores.md)
 
 ## Pleno
 - Tópicos: OOP, arquitetura de software e perfomance;
