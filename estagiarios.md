@@ -3,9 +3,8 @@
 ## O C# é uma linguagem tipada, compilada e gerenciada, o que isso significa?
 <p>A linguagem de programação C# é <b>tipada</b>, pois a assinatura de seus métodos e variáveis deve sempre possuir um tipo (primitivo ou não).</p>
 <p>Além disso, é considerada <b>compilada</b> pois é utilizado um programa (compilador) para traduzir seu código fonte (.cs) em um equivalente código de máquina (.DLL ou .exe) 
-Destarte, o termo <b>gerenciada</b> refere-se à característica de ter sua execução gerida por um runtime, denominado CLR (Commom Language Runtime)</p>.
-<p>
-<b>Bônus</b>: CLR é responsável por pegar o código gerenciado, compilá-lo em código de computador e, em seguida, executá-lo. Além disso, o runtime fornece vários serviços importantes, como gerenciamento automático de memória, limites de segurança, segurança de digitação.
+Destarte, o termo <b>gerenciada</b> refere-se à característica de ter sua execução gerida por um runtime, denominado CLR (Commom Language Runtime)</p>
+<p><b>Bônus</b>: CLR é responsável por pegar o código gerenciado, compilá-lo em código de computador e, em seguida, executá-lo. Além disso, o runtime fornece vários serviços importantes, como gerenciamento automático de memória, limites de segurança, segurança de digitação.
 </p>
 
 ## O que é IL (Intermediate Language)?
